@@ -1,12 +1,16 @@
 # Print
 
-Current Output:
+The `main.py` file is supposed to print `hello_world` but it's not working. Find and fix the bug(s).
+
+Run the code using `python3 main.py`.
+
+### Current Output
 
 ```
 NameError: name 'hello_world' is not defined
 ```
 
-Expected output: 
+### Expected Output
 
 ```
 hello_world
