@@ -20,7 +20,7 @@ hello_world
 
 1. Clone the repository using `git clone <url>`.
 2. Find and fix all the bug(s) you find.
-3. Commit your changes.
+3. Commit your changes using `git add : && git commit -m "Some commit message goes here"`.
 4. Run `git format-patch origin/main`. This will create a patch file in the current directory that contains your changes.
   The patch file should be named something like `0001-<commit message>.patch`, and the first few lines will look like this:
   ```
